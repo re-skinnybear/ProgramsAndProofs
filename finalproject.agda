@@ -406,6 +406,3 @@ module finalproject where
                      homomorphism = homomorphism-example;
                      injective = mapB-Zmod2-inj;
                      surjective = mapB-Zmod2-sur }
-
-{- Test line
--}
